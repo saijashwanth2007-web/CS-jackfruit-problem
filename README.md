@@ -16,18 +16,22 @@ A simple desktop calendar application built with Python and wxPython. Add and vi
 ## Installation
 
 1. Clone the repository:
+ ```
    bash
    git clone https://github.com/saijashwanth2007-web/CS-jackfruit-problem.git
    cd CS-jackfruit-problem
+   ```
    
 
-2. Install dependencies:
-   bash
+3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
+   ```
    
 
 ## Usage
 
 Run the application:
-bash
+```bash
 python practice.py
+```
